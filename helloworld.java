@@ -1,3 +1,3 @@
 class a{
-	System.out.println("helloworld");
+	System.out.println("xihang");
 }
